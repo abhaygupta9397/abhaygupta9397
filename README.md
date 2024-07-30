@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhaygupta9397
-- 👀 I’m interested in Data Structures ans Algorithms
+- 👀 I’m interested in Data Structures and Algorithms
 - 🌱 I’m currently learning Recursion
 - 💞️ I’m looking to collaborate on Data Structure Visualization project
 - 📫 How to reach www.linkedin.com/in/abhay-gupta-7012a1269
