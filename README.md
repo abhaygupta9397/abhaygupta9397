@@ -25,6 +25,7 @@ I'm actively seeking opportunities to collaborate on impactful **Data Structure 
 Here are some of the technologies and tools I'm familiar with or actively learning:
 
 * **Languages:** C++, Python, Java (Basic)
+* **Web Development:** **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
 * **Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms
 * **Tools:** Git, GitHub, VS Code
 
