@@ -20,14 +20,35 @@ I'm actively seeking opportunities to collaborate on impactful **Data Structure 
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ My Tech Stack
 
-Here are some of the technologies and tools I'm familiar with or actively learning:
+A snapshot of the technologies and tools I leverage in my development workflow:
 
-* **Languages:** C++, Python, Java (Basic)
-* **Web Development:** **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
-* **Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms
-* **Tools:** Git, GitHub, VS Code
+* **Languages:**
+    * `Java` ☕
+    * `C++` ➕
+    * `JavaScript` `JS`
+    * `Python` 🐍
+
+* **Frameworks & Libraries:**
+    * `React.js` ⚛️
+    * `Redux` 🔗
+    * `Express.js` ⚡
+    * `Node.js` 🟩
+    * `TailwindCSS` 🌬️
+
+* **Databases:**
+    * `MongoDB` 🍃
+    * `MySQL` 🐬
+    * `PostgreSQL` 🐘
+    * `Redis` 🔴  (Added Redis with a suitable emoji)
+
+* **Tools & Platforms:**
+    * `Git` / `GitHub` 🐙
+    * `VS Code` 💻
+    * `Figma` 🎨
+    * `Postman` ✉️
+    * `Docker` 🐳 (Added Docker with the whale emoji)
 
 ---
 
