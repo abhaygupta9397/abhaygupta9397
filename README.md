@@ -41,14 +41,22 @@ A snapshot of the technologies and tools I leverage in my development workflow:
     * `MongoDB` 🍃
     * `MySQL` 🐬
     * `PostgreSQL` 🐘
-    * `Redis` 🔴  (Added Redis with a suitable emoji)
+    * `Redis` 🔴  
 
 * **Tools & Platforms:**
     * `Git` / `GitHub` 🐙
     * `VS Code` 💻
     * `Figma` 🎨
     * `Postman` ✉️
-    * `Docker` 🐳 (Added Docker with the whale emoji)
+    * `Docker` 🐳 
+
+---
+
+### 🧠 My Problem Solving Journey (LeetCode)
+
+I'm dedicated to continuous improvement in Data Structures and Algorithms. Here's a snapshot of my progress on LeetCode:
+
+[![Abhay Gupta's LeetCode Stats](https://leetcard.jacoblin.cool/abhaygupta9397?theme=dark&font=ABeeZee&ext=heatmap)](https://leetcode.com/abhaygupta9397)
 
 ---
 
